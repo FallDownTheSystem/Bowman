@@ -1,0 +1,9 @@
+C:\Users\Kaplas\Desktop\Bowman Project Files\The Beast Master Project version 1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kaplas\Desktop\Bowman Project Files\The Beast Master Project version 1\obj\x86\Debug\TheBeastMaster.BeastForm1.resources
+C:\Users\Kaplas\Desktop\Bowman Project Files\The Beast Master Project version 1\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Kaplas\Desktop\Bowman Project Files\The Beast Master Project version 1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kaplas\Desktop\Bowman Project Files\The Beast Master Project version 1\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Kaplas\Desktop\Bowman Project Files\The Beast Master Project version 1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kaplas\Desktop\Bowman Project Files\The Beast Master - Treesharp\obj\x86\Debug\TheBeastMaster.csprojResolveAssemblyReference.cache
+C:\Users\Kaplas\Desktop\Bowman Project Files\The Beast Master - Treesharp\obj\x86\Debug\TheBeastMasterTree.BeastGUI.resources
+C:\Users\Kaplas\Desktop\Bowman Project Files\The Beast Master - Treesharp\obj\x86\Debug\TheBeastMaster.csproj.GenerateResource.Cache

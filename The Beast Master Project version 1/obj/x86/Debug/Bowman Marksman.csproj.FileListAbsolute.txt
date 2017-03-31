@@ -1,0 +1,17 @@
+E:\Program Files (x86)\Dropbox\Dropbox\Project Files\Visual Studio GUI projects\Bowman Marksman\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Program Files (x86)\Dropbox\Dropbox\Project Files\Visual Studio GUI projects\Bowman Marksman\obj\x86\Debug\Marksman.MarksForm1.resources
+E:\Program Files (x86)\Dropbox\Dropbox\Project Files\Visual Studio GUI projects\Bowman Marksman\obj\x86\Debug\Marksman.Properties.Resources.resources
+E:\Program Files (x86)\Dropbox\Dropbox\Project Files\Visual Studio GUI projects\Bowman Marksman\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Program Files (x86)\Dropbox\Dropbox\Project Files\Visual Studio GUI projects\Bowman Marksman\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Anders\Dropbox\Project Files\Visual Studio GUI projects\Bowman Marksman\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Anders\Dropbox\Project Files\Visual Studio GUI projects\Bowman Marksman\obj\x86\Debug\Marksman.MarksForm1.resources
+C:\Users\Anders\Dropbox\Project Files\Visual Studio GUI projects\Bowman Marksman\obj\x86\Debug\Marksman.Properties.Resources.resources
+C:\Users\Anders\Dropbox\Project Files\Visual Studio GUI projects\Bowman Marksman\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Anders\Dropbox\Project Files\Visual Studio GUI projects\Bowman Marksman\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Winkle\Dropbox\Project Files\Visual Studio GUI projects\Bowman Marksman\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Winkle\Dropbox\Project Files\Visual Studio GUI projects\Bowman Marksman\obj\x86\Debug\Marksman.MarksForm1.resources
+C:\Users\Winkle\Dropbox\Project Files\Visual Studio GUI projects\Bowman Marksman\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Winkle\Dropbox\Project Files\Visual Studio GUI projects\Bowman Marksman\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Winkle\Dropbox\Project Files\Visual Studio GUI projects\Bowman Marksman\bin\Debug\Bowman Marksman.exe.config
+C:\Users\Winkle\Dropbox\Project Files\Visual Studio GUI projects\Bowman Marksman\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Winkle\Dropbox\Project Files\Visual Studio GUI projects\Bowman Marksman\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog

@@ -1,0 +1,5 @@
+C:\Users\Fjeld\AppData\Local\Temporary Projects\Marksman\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fjeld\AppData\Local\Temporary Projects\Marksman\obj\x86\Debug\Marksman.MarksForm1.resources
+C:\Users\Fjeld\AppData\Local\Temporary Projects\Marksman\obj\x86\Debug\Marksman.Properties.Resources.resources
+C:\Users\Fjeld\AppData\Local\Temporary Projects\Marksman\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Fjeld\AppData\Local\Temporary Projects\Marksman\obj\x86\Debug\GenerateResource.write.1.tlog
